@@ -1,0 +1,128 @@
+ .sec1 {
+    background:url( eyes\ doctor.jpg);
+    background-size: cover;
+
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 100px;
+    background-color:gray;
+}
+nav ul li{
+    display: inline-block;
+    margin: 10px 20px;
+    color: black;
+     
+
+    
+}
+.button{
+    background-color:rgb(95, 95, 173);
+    color: antiquewhite;
+    padding: 5px 20px;
+    border-radius: 50px;
+   margin-right: 20px;
+}
+.Home{
+background-color:white;
+color: black;
+padding: 5px 20px;
+border-radius: 50px;
+}
+.logo{
+    color:white;
+    font-size: 25px;
+    font-weight: 600;
+}
+.page{
+    color:antiquewhite;
+}
+.doctor{
+    color:antiquewhite;
+}
+.blog{
+    color:antiquewhite;
+}
+.shop{
+    color:antiquewhite;
+}
+.title{
+    font-weight: 900;
+    font-size:50px;
+    color:rgb(48, 45, 45);
+}
+.welcom{
+    font-weight:400;
+    font-size:20px;
+}
+.book{
+    background-color:rgb(95, 95, 173);
+    color: antiquewhite;
+    padding: 10px 20px;
+    border-radius: 45px;
+    font-weight: 100;}
+.end{
+    display: flex;
+    justify-content:space-around;
+    color:black;
+}
+ .welcom{
+    font-weight: 400;
+ }
+ .date{
+    color:rgb(6, 6, 58);
+    font-weight: 200;
+ }
+ .sec2{
+    display: flex;
+    justify-content: space-around;
+ }
+ .but{
+    background-color:rgb(95, 95, 173);
+    color: antiquewhite;
+    padding: 5px 20px;
+    border-radius: 50px;
+   margin-right: 20px;
+ }
+ .end2{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+
+ }
+ .num{
+    color: rgb(32, 32, 103);
+ }
+  .doctors{
+    display: flex;
+    justify-content:space-around;
+  }
+  .tttt{
+    color: wheat;
+    font-size: 40px;
+    background-color: rgb(86, 103, 98);
+    padding: 50px 100px;
+    align-content: center;
+     
+  }
+  .end3{
+    color:black;
+    display: flex;
+    justify-content:space-around;
+    background-color: rgb(86, 103, 98);
+    padding: 40px 100px ;
+    
+  }
+  .ggg{
+    font-size: 30px;
+    color: beige;
+  }
+  .put{
+    background-color:beige;
+    color:black;
+    padding: 5px 20px;
+    border-radius: 10px;
+   
+  }
